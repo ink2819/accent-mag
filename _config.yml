@@ -11,8 +11,9 @@ permalink: pretty
 title:            Accent Accent Magazine
 tagline:          'Created by Accent Sisters'
 description:      'A digital publication for contemporary literature, art, and interdisciplinary cultural practice.'
-url:              http://accentaccent.com
-baseurl:          /
+url: "https://ink2819.github.io"
+baseurl: "/accent-mag"
+
 
 author:
   name:           'Mark Otto'
