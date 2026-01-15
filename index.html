@@ -1,0 +1,11 @@
+---
+layout: default
+title: Home
+---
+
+{% assign about_page = site.pages | where: "show_on_home", true | first %}
+
+<article class="page">
+  <h1 class="page-title">{{ about_page.title }}</h1>
+  {{ about_page.content }}
+</article>

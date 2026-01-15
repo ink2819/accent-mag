@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+
+# Permalinks
+permalink: pretty
+
+
+# Setup
+title:            Accent Accent Magazine
+tagline:          'Created by Accent Sisters'
+description:      'A digital publication for contemporary literature, art, and interdisciplinary cultural practice.'
+url:              http://accentaccent.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
